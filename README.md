@@ -58,14 +58,8 @@ We evaluated performance using:
 
 ## 👥 Team
 
+- Rebecca Vanni
+- Avalon Bennett
 - Thomas Cusick  
-- [Collaborator Name(s)]
 
 ---
-
-## 🛠️ How to Run
-
-```bash
-git clone https://github.com/yourusername/ML_Final_Project.git
-cd ML_Final_Project
-jupyter notebook FinalProject_ML.ipynb
