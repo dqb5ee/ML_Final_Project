@@ -50,9 +50,8 @@ Features were cleaned and one-hot encoded as needed. We removed outliers and foc
 
 We evaluated performance using:
 
-- **R²**: ~0.74  
-- **RMSE**: ~65,000  
-- **MSE**: ~4.2e9  
+- **R²**: 0.52  
+- **RMSE**: 88779.23   
 
 ---
 
